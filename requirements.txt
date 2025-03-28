@@ -4,3 +4,4 @@ numpy
 mediapipe
 flask-cors
 gunicorn
+waitress
